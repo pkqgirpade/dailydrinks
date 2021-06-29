@@ -1,0 +1,19 @@
+.show {
+  visibility: visible;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.main-div {
+  margin-top: 1rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  margin: 1rem 1rem;
+}

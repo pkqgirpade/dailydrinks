@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.form-container {
+  height: 15rem;
+  display: flex;
+}
+.div-order {
+  width: 50vw;
+}
+.btn-order {
+  margin: 5rem auto auto 5rem;
+}
+
+.order-items {
+  display: flex;
+  padding: 2rem;
+  justify-content: center;
+}
